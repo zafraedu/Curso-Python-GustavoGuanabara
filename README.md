@@ -1,4 +1,7 @@
 # Curso de Python 3 do Curso em Vídeo
+<img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png" width="180" height="180">
+<img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo2-circle-a64ea178823d89b8510e5f90ccfa644e-5d48cb37edbef.png" width="180" height="180">
+<img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo3-circle-f17d45114895df37bfaf3bf9c8091b3f-5d48cb37edbef.png" width="180" height="180">
 
 Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (vídeos também disponíveis no canal do YouTube do Curso em Vídeo.)
 
