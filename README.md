@@ -121,18 +121,15 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex075.py)
 - Exercício Python #076 - [Lista de preços com tupla](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex076.py)
 - Exercício Python #077 - [Contando vogais em tupla](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex077.py)
- 
-<!--
-#### Listas
-- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_78.py)
-- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_79.py)
-- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.py)
-- Exercício Python #080.1 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.1.py)
-- Exercício Python #081.2 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.2.py)
-- Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_81.py)
-- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_82.py)
-- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_83.py)
 
+#### Listas
+- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex078.py)
+- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex079.py)
+- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex080.py)
+- Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex081.py)
+- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex082.py)
+- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex083.py)
+<!--
 #### Listas (Parte 2)
 
 - Exercício Python #084 - [Lista composta e análise de dados](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_84.py)
