@@ -1,8 +1,14 @@
 # Curso de Python 3 do Curso em Vídeo
 <div>
-<img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png" width="180" height="180">
-<img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo2-circle-a64ea178823d89b8510e5f90ccfa644e-5d48cb37edbef.png" width="180" height="180">
-<img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo3-circle-f17d45114895df37bfaf3bf9c8091b3f-5d48cb37edbef.png" width="180" height="180">
+<a href="#mundo-1">
+    <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png" width="180" height="180">
+</a>
+<a href="#mundo-2">
+    <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo2-circle-a64ea178823d89b8510e5f90ccfa644e-5d48cb37edbef.png" width="180" height="180">
+</a>
+<a href="#mundo-3">
+    <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo3-circle-f17d45114895df37bfaf3bf9c8091b3f-5d48cb37edbef.png" width="180" height="180">
+</a>
 </div>
 
 Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (vídeos também disponíveis no canal do YouTube do Curso em Vídeo.)
@@ -13,21 +19,21 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Conhecendo a linguagem
 
-- Exercício Python #01 - [Deixando tudo pronto](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex001.py)
-- Exercício Python #02 - [Respondendo ao usuário](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex002.py)
+- Exercício Python #001 - [Deixando tudo pronto](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex001.py)
+- Exercício Python #002 - [Respondendo ao usuário](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex002.py)
 
 #### Primeiros passos
 
-- Exercício Python #03 - [Somando dois números](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex003.py)
-- Exercício Python #04 - [Dissecando uma variável](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex004.py)
+- Exercício Python #003 - [Somando dois números](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex003.py)
+- Exercício Python #004 - [Dissecando uma variável](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex004.py)
 
 #### Cálculos e operações
 
-- Exercício Python #05 - [Antecessor e sucessor](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex005.py)
-- Exercício Python #06 - [Dobro, triplo e raiz quadrada](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex006.py)
-- Exercício Python #07 - [Média aritmética](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex007.py)
-- Exercício Python #08 - [Conversor de medidas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex008.py)
-- Exercício Python #09 - [Tabuada](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex009.py)
+- Exercício Python #005 - [Antecessor e sucessor](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex005.py)
+- Exercício Python #006 - [Dobro, triplo e raiz quadrada](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex006.py)
+- Exercício Python #007 - [Média aritmética](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex007.py)
+- Exercício Python #008 - [Conversor de medidas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex008.py)
+- Exercício Python #009 - [Tabuada](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex009.py)
 - Exercício Python #010 - [Conversor BRS to USD](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex010.py)
 - Exercício Python #011 - [Pintando parede](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex011.py)
 - Exercício Python #012 - [Calculando descontos](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_01/ex012.py)
@@ -129,16 +135,17 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex081.py)
 - Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex082.py)
 - Exercício Python #083 - [Validando expressões matemáticas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex083.py)
-<!--
+
 #### Listas (Parte 2)
 
-- Exercício Python #084 - [Lista composta e análise de dados](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_84.py)
-- Exercício Python #085 - [Listas com pares e ímpares](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_85.py)
-- Exercício Python #086 - [Matrix em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_86.py)
-- Exercício Python #087 - [Mais sobre matriz em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_87.py)
-- Exercício Python #088 - [Palpites para a Mega-Sena](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_88.py)
-- Exercício Python #089 - [Boletim com listas compostas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_89.py)
+- Exercício Python #084 - [Lista composta e análise de dados](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex084.py)
+- Exercício Python #085 - [Listas com pares e ímpares](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex085.py)
+- Exercício Python #086 - [Matrix em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex086.py)
+- Exercício Python #087 - [Mais sobre matriz em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex087.py)
+- Exercício Python #088 - [Palpites para a Mega-Sena](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex088.py)
+- Exercício Python #089 - [Boletim com listas compostas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex089.py)
 
+<!--
 #### Dicionários
 
 - Exercício Python #090 - [Dicionário em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_90.py)
