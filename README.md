@@ -115,7 +115,7 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_02/ex068.py)
 - Exercício Python #069 - [Análise de dados do grupo](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_02/ex069.py)
 - Exercício Python #070 - [Estatística de produtos](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_02/ex070.py)
-- Exercício Python #071.2 - [Simulador de caixa eletrônico](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_02/ex071.py)
+- Exercício Python #071 - [Simulador de caixa eletrônico](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_02/ex071.py)
 
 ### Mundo 3: estruturas compostas
 
@@ -145,15 +145,15 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #088 - [Palpites para a Mega-Sena](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex088.py)
 - Exercício Python #089 - [Boletim com listas compostas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex089.py)
 
-<!--
 #### Dicionários
 
-- Exercício Python #090 - [Dicionário em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_90.py)
-- Exercício Python #091 - [Jogo de dados em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_91.py)
-- Exercício Python #092 - [Cadastro de trabalhador em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_92.py)
-- Exercício Python #093 - [Cadastro de jogador de futebol](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_93.py)
-- Exercício Python #094 - [Unindo dicionários e listas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_94.py)
-- Exercício Python #095 - [Aprimorando dicionários](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_95.py)
+- Exercício Python #090 - [Dicionário em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex090.py)
+- Exercício Python #091 - [Jogo de dados em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex091.py)
+- Exercício Python #092 - [Cadastro de trabalhador em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex092.py)
+- Exercício Python #093 - [Cadastro de jogador de futebol](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex093.py)
+- Exercício Python #094 - [Unindo dicionários e listas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex094.py)
+- Exercício Python #095 - [Aprimorando dicionários](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex095.py)
+<!--
 
 #### Funções
 
