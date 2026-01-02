@@ -153,21 +153,21 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #093 - [Cadastro de jogador de futebol](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex093.py)
 - Exercício Python #094 - [Unindo dicionários e listas](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex094.py)
 - Exercício Python #095 - [Aprimorando dicionários](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex095.py)
-<!--
 
 #### Funções
 
-- Exercício Python #096 - [Função que calcula área](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_96.py)
-- Exercício Python #097 - [Um print especial](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_97.py)
-- Exercício Python #098 - [Função de contador](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_98.py)
-- Exercício Python #099 - [Função que descobre o maior](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_99.py)
-- Exercício Python #100 - [Funções para sortear e somar](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_100.py)
-- Exercício Python #101 - [Funções para votação](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_101.py)
-- Exercício Python #102 - [Função para fatorial](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_102.py)
-- Exercício Python #103 - [Ficha do jogador](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_103.py)
-- Exercício Python #104 - [Validando entrada de dados em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_104.py)
-- Exercício Python #105 - [Analisando e gerando dicionários](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_105.py)
-- Exercício Python #106 - [Sistema interativo de ajuda em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_106.py)
+- Exercício Python #096 - [Função que calcula área](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex096.py)
+- Exercício Python #097 - [Um print especial](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex097.py)
+- Exercício Python #098 - [Função de contador](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex098.py)
+- Exercício Python #099 - [Função que descobre o maior](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex099.py)
+- Exercício Python #100 - [Funções para sortear e somar](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex100.py)
+- Exercício Python #101 - [Funções para votação](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex101.py)
+- Exercício Python #102 - [Função para fatorial](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex102.py)
+- Exercício Python #103 - [Ficha do jogador](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex103.py)
+- Exercício Python #104 - [Validando entrada de dados em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex104.py)
+- Exercício Python #105 - [Analisando e gerando dicionários](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex105.py)
+- Exercício Python #106 - [Sistema interativo de ajuda em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/blob/main/mundo_03/ex106.py)
+<!--
 
 #### Modularização em Python
 
