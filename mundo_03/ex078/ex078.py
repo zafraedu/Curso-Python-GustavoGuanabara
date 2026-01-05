@@ -1,6 +1,3 @@
-# Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final,
-# mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
-
 numeros = list()
 for i in range(5):
     numeros.append(int(input(f'{i}º Numero: ')))
@@ -15,4 +12,3 @@ print(f'\nEl menor numero es el {min(numeros)} y esta en {'las posiciones' if nu
 for pos, n in enumerate(numeros):
     if n == min(numeros):
         print(pos, end=' ')
-
