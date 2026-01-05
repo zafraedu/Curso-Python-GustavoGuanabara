@@ -10,6 +10,3 @@ print('maiusculas: ', text.isupper())
 print('only space: ', text.isspace())
 print('float : ', text.isdecimal())
 print('tabla ASCII: ', text.isascii())
-
-
-

@@ -176,13 +176,9 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #110 - [Reduzindo ainda mais seu programa](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/tree/main/mundo_03/ex110)
 - Exercício Python #111 - [Transformando módulos em pacotes](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/tree/main/mundo_03/ex111)
 - Exercício Python #112 - [Entrada de dados monetários](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/tree/main/mundo_03/ex112)
-<!--
 
 #### Tratamento de erros em Python
 
-- Exercício Python #113 - Funções aprofundadas em Python
-- Exercício Python #114 - Site está acessível?
-- Exercício Python #115a - Criando um menu em Python
-- Exercício Python #115b - Criando um menu em Python
-- Exercício Python #115c - Finalizando o projeto
--->
+- Exercício Python #113 - [Funções aprofundadas em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/tree/main/mundo_03/ex113)
+- Exercício Python #114 - [Site está acessível?](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/tree/main/mundo_03/ex114)
+- Exercício Python #115 - [Criando um menu em Python](https://github.com/zafraedu/Curso-Python-GustavoGuanabara/tree/main/mundo_03/ex115)

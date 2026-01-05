@@ -5,7 +5,7 @@ Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com
 ```
 Cidade: Santo André
 True
-
+-------------------
 Cidade: São Caetano
 False
 ```
