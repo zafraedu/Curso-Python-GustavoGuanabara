@@ -9,8 +9,11 @@
 <a href="#mundo-3-estruturas-compostas">
     <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo3-circle-f17d45114895df37bfaf3bf9c8091b3f-5d48cb37edbef.png" width="180" height="180">
 </a>
+<a href="#mundo-3-estruturas-compostas">
+    <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python-Poo%E2%80%93Mundo4-circle-6742440f081398ca402427c1a8bf7fde-5d48cb37edbef.png" width="180" height="180">
+</a>
 </div>
-
+https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python-Poo%E2%80%93Mundo4-circle-6742440f081398ca402427c1a8bf7fde-5d48cb37edbef.png
 Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (vídeos também disponíveis no canal do YouTube do Curso em Vídeo.)
 
 ## Lista de exercícios resolvidos
