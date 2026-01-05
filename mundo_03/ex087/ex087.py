@@ -1,8 +1,3 @@
-# Aprimore o desafio anterior, mostrando no final:
-# A) A soma de todos os valores pares digitados.
-# B) A soma dos valores da terceira coluna.
-# C) O maior valor da segunda linha.
-
 matrix = [[int(input(f'Digite um valor para [{i}, {j}]: ')) for j in range(3)] for i in range(3)]
 soma_pares = sum(elemento for fila in matrix for elemento in fila if elemento % 2 == 0)
 soma_tercera_coluna = sum(matrix[i][-1] for i in range(3))
